@@ -5,9 +5,7 @@ FCYS, freelancer çalışanlar ile müşterileri tek bir platformda buluşturan,
 
 ## Öne Çıkan Özellikler
 **Çift Rol Tabanlı Giriş:** Kullanıcılar veritabanındaki rollerine göre (Freelancer veya Müşteri) otomatik olarak kendi yönetim panellerine yönlendirilir.
-
 **Akıllı Teslim Tarihi Hatırlatıcısı:** Proje teslimine az kalan işlerde sistem freelancer'ı otomatik olarak uyarır ve süre takibini kolaylaştırır.
-
 **Finansal Panel Yönetimi:** Toplam kazanç, kasadaki net nakit ve bekleyen ödemeler SQL veritabanından anlık olarak çekilerek listelenir.
 
 

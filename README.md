@@ -23,5 +23,5 @@ FCYS, freelancer çalışanlar ile müşterileri tek bir platformda buluşturan,
 ## Kullanım Kılavuzu
 1. **Sisteme Giriş:** Giriş ekranında kullanıcı rolünüzü (Freelancer veya Müşteri) seçerek kayıtlı bilgilerinizle giriş yapın. Hesabınız yoksa "Kayıt Ol" butonundan yeni hesap oluşturabilirsiniz.
 2. **Proje Yönetimi:** Giriş yaptıktan sonra kendi panelinizden "Yeni Proje Ekle" butonu ile sisteme yeni işler tanımlayabilirsiniz.
-3. **Talep ve Durum Takibi:** Müşterilerin gönderdiği projeler Freelancer paneline anlık düşer; buradan projeleri "Kabul Et" veya "Reddet" seçeneğiyle yönetebilir, iş bitiminde "Durum Güncelle" yapabilirsiniz.
+3. **Talep ve Durum Takibi:** Müşterilerin gönderdiği projeler Freelancer paneline anlık düşer; buradan projeleri "Kabul Et" veya "Reddet" seçeneğiyle yönetebilir, iş bitiminde "Durum Güncelle" yapabilirsiniz. Uygulamamız proje teslim yaklaştığı zaman devreye girer ve size zamanında hatırlatmalar göndererek hiçbir teslim tarihini kaçırmamanıza yardımcı olur.
 4. **Finansal Takip:** Panel üzerindeki cüzdan alanından toplam kazancınızı ve onay bekleyen ödemelerinizi anlık takip edebilirsiniz.
